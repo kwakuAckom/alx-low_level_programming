@@ -1,3 +1,5 @@
 intmain(void)
-{puts("\"Programmingislikebuildingamultillingualpuzzle");
-return(0);}
+{
+puts("\"Programmingislikebuildingamultillingualpuzzle");
+return(0);
+}
