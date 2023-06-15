@@ -1,5 +1,5 @@
-int main(void)
+intmain(void)
 {
-puts("\"Programming is like building a multillingual puzzle");
-return (0);
+puts("\"Programmingislikebuildingamultillingualpuzzle");
+return(0);
 }
